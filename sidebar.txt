@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gob:home|Door43 (gob)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gob|d43-gob repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gob/archive/master.zip|d43-gob.zip]]
+
+**Recent Changes**
+{{changes>ns = gob}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gob|Ethnologue data]]
+
